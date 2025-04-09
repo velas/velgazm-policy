@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last updated:** [Insert Date]
+**Last updated:** April 1, 2025
 
 The Velgazm Wallet, including its browser extension (plugin), desktop, or mobile application (the “Velgazm Wallet”), is operated by **Velas Network AG** (“Velas”, “we”, “us”).
 
